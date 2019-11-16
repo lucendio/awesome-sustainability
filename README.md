@@ -1,2 +1,1 @@
-# awesome-sustainability
-Moved to https://github.com/tmrrw/awesome-sustainability
+__Moved to https://github.com/tmrrw/awesome-sustainability__
